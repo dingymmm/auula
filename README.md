@@ -3,12 +3,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higker&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<!-- <p align="center">
-  <img width="400" align="center"  src="https://www.rust-lang.org/static/images/ferris.gif" />
-</p>  -->
-
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=radical" alt="Jaco Ding's GitHub stats" />
-
 
 <!-- <a href="https://masonicgit.github.io/pacman/" target="_blank"><img align="right"  width="400px" src="./developer-github.gif"  /></a> -->
 
