@@ -15,8 +15,6 @@
 
 🍎 Apple product fans
 
-✈️ Want to travel the world
-
 🌏 Open-source software developer
 
 🎈 Meet our team of [@KVBase](https://github.com/kvbase)
