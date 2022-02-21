@@ -17,6 +17,9 @@
 
 🌏 Open-source software developer
 
+📚 I publish book 《Go语言进阶编程》
+
+
 🎈 Meet our team of [@KVBase](https://github.com/kvbase)
 
 [![wechat](https://img.shields.io/badge/公众号：打码匠-%23323031?style=flat&logo=wechat)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3MzQwNjcyNg==&mid=2247485256&idx=1&sn=1a24c3f79d1a0f6b0c4529792383a1ee&send_time=)
