@@ -17,7 +17,7 @@
 
 🌏 Open-source software developer
 
-📚 I publish book 《Go语言进阶编程》write ...
+📚 I publish book [《Go语言进阶编程》](./Go语言进阶编程.pdf)
 
 
 🎈 Meet our team of [@KVBase](https://github.com/kvbase)
