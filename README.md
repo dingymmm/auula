@@ -17,7 +17,7 @@
 
 🌏 Open-source software developer
 
-📚 I publish book [《Rust宝典》](http://rust.ibyte.me/)
+📚 I publish book [《Rust eBook》](http://rust.ibyte.me/)
 
 
 🎈 Meet our team of [@Kalasa](https://github.com/kalasadb)
