@@ -15,7 +15,7 @@
 
 🍎 Apple product fans
 
-🌏 Open-source software developer
+🔋 I like distributed system and compiler technology
 
 📚 I publish book [《Rust eBook》](http://rust.ibyte.me/)
 
