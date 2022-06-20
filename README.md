@@ -15,7 +15,7 @@
 
 🍎 Apple product fans
 
-🔋 I like distributed system and compiler technology
+🔋 I like distributed system and compiler
 
 📚 I publish book [《Rust eBook》](http://rust.ibyte.me/)
 
