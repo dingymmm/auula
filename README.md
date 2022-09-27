@@ -20,7 +20,7 @@
 📚 Learning [《DDIA》](https://dataintensive.net/) theory 
 
 
-🎈 Meet our team of [@Kalasa](https://github.com/kalasadb)
+🎈 Developing [@Rosetta](https://github.com/auula/rosetta)
 
 [![wechat](https://img.shields.io/badge/公众号：TPaper-%23323031?style=flat&logo=wechat)](https://tva1.sinaimg.cn/large/e6c9d24egy1h3du57zdzbj20ks0lkwfk.jpg)
 
