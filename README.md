@@ -17,7 +17,7 @@
 
 🔋 I like distributed system and compiler
 
-📚 Learning distributed database theory [《DDIA》](https://dataintensive.net/)
+📚 Learning [《DDIA》](https://dataintensive.net/) theory 
 
 
 🎈 Meet our team of [@Kalasa](https://github.com/kalasadb)
