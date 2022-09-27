@@ -17,7 +17,7 @@
 
 🔋 I like distributed system and compiler
 
-📚 I publish book [《Rust eBook》](http://rust.ibyte.me/)
+📚 Learning distributed database theory [《DDIA》](https://dataintensive.net/)
 
 
 🎈 Meet our team of [@Kalasa](https://github.com/kalasadb)
