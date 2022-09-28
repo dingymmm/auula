@@ -11,7 +11,7 @@
 
 
 
-👨‍💻‍ Engineer
+👨‍🔬 Engineer
 
 🍎 Apple product fans
 
