@@ -28,6 +28,7 @@
 </a>
 <p>
 
+[![](https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=White)](#)
 [![](https://img.shields.io/badge/Java-red?style=flat-square&logo=code&logoColor=white)](#)
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=Go&logoColor=white)](#)
 [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=White)](#)
