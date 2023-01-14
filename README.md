@@ -2,8 +2,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=auula&show_icons=true&theme=Default" alt="Leon Ding's GitHub stats" />
+<!-- 
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=auula&show_icons=true&bg_color=00000000" alt="Leon Ding's GitHub stats" /> -->
 
 <!-- <a href="https://masonicgit.github.io/pacman/" target="_blank"><img align="right"  width="400px" src="./developer-github.gif"  /></a> -->
 
