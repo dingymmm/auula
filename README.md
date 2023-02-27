@@ -17,7 +17,7 @@
 
 🍎 Apple product fans
 
-🔋 I like distributed system and JVM
+🔋 I like distributed system and virtual machine
 
 📚 Learning [《DDIA》](https://dataintensive.net/) theory 
 
