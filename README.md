@@ -17,7 +17,7 @@
 
 🍎 Apple product fans
 
-🔋 I like distributed system and program language virtual machine.
+🔋 I like distributed system and program language virtual machine
 
 📚 Learning [《DDIA》](https://dataintensive.net/) theory 
 
