@@ -41,6 +41,7 @@
 [![](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=White)](#)
 [![](https://img.shields.io/badge/WASM-000000?style=flat-square&logo=webassembly&logoColor=White)](#)
 [![](https://img.shields.io/badge/Chrome-000000?style=flat-square&logo=GoogleChrome&logoColor=White)](#)
+[![](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=White)](#)
 [![](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white)](#)
 [![](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)](#)
 [![](https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white)](#)
