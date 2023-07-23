@@ -31,13 +31,17 @@
 <p>
 
 [![](https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=White)](#)
-[![](https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white)](#)
+[![](https://img.shields.io/badge/Java-F1931C?style=flat-square&logo=Java&logoColor=white)](#)
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=Go&logoColor=white)](#)
 [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=White)](#)
 [![](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=White)](#)
 [![](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=White)](#)
 [![](https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=White)](#)
 [![](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=White)](#)
+[![](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white)](#)
+[![](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)](#)
+[![](https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white)](#)
+[![](https://img.shields.io/badge/Redis-BF2E2A?style=flat-square&logo=Redis&logoColor=white)](#)
 [![](https://img.shields.io/badge/Vim-2E8B57?style=flat-square&logo=Vim&logoColor=White)](#)
 [![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
 
