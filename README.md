@@ -34,7 +34,7 @@
 [![](https://img.shields.io/badge/Java-F1931C?style=flat-square&logo=Java&logoColor=white)](#)
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=Go&logoColor=white)](#)
 [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=White)](#)
-[![](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=White)](#)
+[![](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=ES6&logoColor=White)](#)
 [![](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=White)](#)
 [![](https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=White)](#)
 [![](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=White)](#)
