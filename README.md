@@ -17,7 +17,7 @@
 
 🍎 Apple product fans
 
-🔋 I like distributed system and JVM
+🔋 I like distributed system and [GraalVM](http://graalvm.org)
 
 📚 Learning [《DDIA》](https://dataintensive.net/) theory 
 
@@ -40,12 +40,13 @@
 [![](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=White)](#)
 [![](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=White)](#)
 [![](https://img.shields.io/badge/WASM-000000?style=flat-square&logo=webassembly&logoColor=White)](#)
+[![](https://img.shields.io/badge/Chrome-000000?style=flat-square&logo=GoogleChrome&logoColor=White)](#)
 [![](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white)](#)
 [![](https://img.shields.io/badge/PGSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)](#)
 [![](https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white)](#)
 [![](https://img.shields.io/badge/Redis-BF2E2A?style=flat-square&logo=Redis&logoColor=white)](#)
 [![](https://img.shields.io/badge/Vim-2E8B57?style=flat-square&logo=Vim&logoColor=White)](#)
-[![](https://img.shields.io/badge/VSCode-20A2EB?style=flat-square&logo=visualstudio&logoColor=White)](#)
+[![](https://img.shields.io/badge/VSCode-20A2EB?style=flat-square&logo=VisualStudio&logoColor=White)](#)
 [![](https://img.shields.io/badge/Eclipse-2B2152?style=flat-square&logo=eclipse&logoColor=White)](#)
 [![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
 
