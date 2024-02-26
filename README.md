@@ -13,7 +13,7 @@
 
 
 
-🧑🏻‍🚀 Solo Hacker
+🧑🏻‍🚀 Solo hacker
 
 🔋 I like distributed system and [GraalVM](http://graalvm.org)
 
