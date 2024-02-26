@@ -21,7 +21,7 @@
 
 🎈 Developing [@KoopaFS](https://github.com/koopafs/koopa)
 
-🎸 Open source project & technical blog author
+🎸 Open source project & tech [blog](https://ibyte.me) author
 
 [![wechat](https://img.shields.io/badge/公众号：TPaper-%23323031?style=flat&logo=wechat)](https://tva1.sinaimg.cn/large/e6c9d24egy1h3du57zdzbj20ks0lkwfk.jpg)
 
