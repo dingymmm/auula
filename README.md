@@ -13,9 +13,9 @@
 
 
 
-👨‍🔬 Engineer
+🧑🏻‍🚀 Solo Hacker
 
-🍎 Apple product fans
+🎸 Open source project & technical blog author
 
 🔋 I like distributed system and [GraalVM](http://graalvm.org)
 
