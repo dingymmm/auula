@@ -19,7 +19,7 @@
 
 📚 Learning [《DDIA》](https://dataintensive.net/) theory 
 
-🎈 Developing [OnSync App](https://onsync.app)
+🎈 Developing [OnSync](https://onsync.app) App
 
 🎸 Open source project & tech [blog](https://ibyte.me) author
 
