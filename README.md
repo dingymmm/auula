@@ -19,7 +19,7 @@
 
 📚 Learning [《DDIA》](https://dataintensive.net/) theory 
 
-🎈 Developing [@KoopaFS](https://github.com/koopafs/koopa)
+🎈 Developing [OnSync App](https://onsync.app)
 
 🎸 Open source project & tech [blog](https://ibyte.me) author
 
