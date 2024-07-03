@@ -23,7 +23,7 @@
 
 🎸 Open source project & tech [blog](https://ibyte.me) author
 
-[![wechat](https://img.shields.io/badge/公众号：TPaper-%23323031?style=flat&logo=wechat)](https://tva1.sinaimg.cn/large/e6c9d24egy1h3du57zdzbj20ks0lkwfk.jpg)
+[![wechat](https://img.shields.io/badge/公众号：一大块芝士-%23323031?style=flat&logo=wechat)](https://tva1.sinaimg.cn/large/e6c9d24egy1h3du57zdzbj20ks0lkwfk.jpg)
 
 <p ><a href="https://www.ibyte.me"><img src="https://komarev.com/ghpvc/?username=higker">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dauula&longCache=true"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </a>
