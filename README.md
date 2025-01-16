@@ -39,7 +39,7 @@
 [![](https://img.shields.io/badge/Quarkus-000000?style=flat-square&logo=quarkus&logoColor=White)](#)
 [![](https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vue.js&logoColor=White)](#)
 [![](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=White)](#)
-[![](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=White)](#)
+[![](https://img.shields.io/badge/Podman-000000?style=flat-square&logo=podman&logoColor=White)](#)
 [![](https://img.shields.io/badge/WASM-000000?style=flat-square&logo=webassembly&logoColor=White)](#)
 [![](https://img.shields.io/badge/Electron-000000?style=flat-square&logo=Electron&logoColor=White)](#)
 [![](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=White)](#)
